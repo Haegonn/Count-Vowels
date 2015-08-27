@@ -1,0 +1,7 @@
+C:\Users\Josh\Documents\GitHub\Count Vowels\Count Vowels\bin\Debug\Count Vowels.exe.config
+C:\Users\Josh\Documents\GitHub\Count-Vowels\Count Vowels\bin\Debug\Count Vowels.exe.config
+C:\Users\Josh\Documents\GitHub\Count-Vowels\Count Vowels\bin\Debug\Count Vowels.exe
+C:\Users\Josh\Documents\GitHub\Count-Vowels\Count Vowels\bin\Debug\Count Vowels.pdb
+C:\Users\Josh\Documents\GitHub\Count-Vowels\Count Vowels\obj\Debug\Count Vowels.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\Count-Vowels\Count Vowels\obj\Debug\Count Vowels.exe
+C:\Users\Josh\Documents\GitHub\Count-Vowels\Count Vowels\obj\Debug\Count Vowels.pdb
